@@ -24,6 +24,7 @@ This script completely uninstalls Node.js and npm from your Ubuntu/Debian system
 5. If **nvm** (Node Version Manager) is installed, it also uninstalls Node.js versions managed by **nvm**.
 6. Verifies that Node.js and npm have been successfully uninstalled.
 
+```
 ## Instructions
 
 ### 1. Clone or download the repository
@@ -32,7 +33,6 @@ Clone this repository or download the `uninstall-nodejs.sh` script to your machi
 ### 2. Grant execution permissions to the script
 
 Open the terminal in the folder where the script is located and grant it execution permissions with the following command:
-```
 
 ```bash
 chmod +x uninstall-nodejs.sh
