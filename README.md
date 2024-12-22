@@ -32,6 +32,7 @@ Clone this repository or download the `uninstall-nodejs.sh` script to your machi
 ### 2. Grant execution permissions to the script
 
 Open the terminal in the folder where the script is located and grant it execution permissions with the following command:
+```
 
 ```bash
 chmod +x uninstall-nodejs.sh
